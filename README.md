@@ -13,6 +13,7 @@ pip install requests
 python3 AURELig.py
 
 
+![capture](![image]()
 
 
 This is for educational purposes only!!
